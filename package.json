@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev:simple": "ts-node-dev --respawn --transpile-only simple-server.ts"
+    "go": "ts-node-dev --respawn --transpile-only simple-server.ts"
   },
   "keywords": [],
   "author": "",
